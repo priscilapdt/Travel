@@ -19,3 +19,5 @@ npm run dev
 ![Screenshot from 2023-11-23 15-29-49](https://github.com/priscilapdt/Travel/assets/88726057/5b466bf0-8b19-4d38-a1b1-21a46d3b2516)
 ![Screenshot from 2023-11-23 15-30-03](https://github.com/priscilapdt/Travel/assets/88726057/2792eff4-7611-494e-97d2-848ef1eeed42)
 ![Screenshot from 2023-11-24 16-01-16](https://github.com/priscilapdt/Travel/assets/88726057/d5a52b25-d4f1-47e2-b6d9-e40a354573b6)
+
+Project-based - https://www.jsmastery.pro
